@@ -1,0 +1,1958 @@
+[
+    {
+        "code": "E06000047",
+        "name": "County Durham",
+        "region": "North East",
+        "value": 15221
+    },
+    {
+        "code": "E06000005",
+        "name": "Darlington",
+        "region": "North East",
+        "value": 15487
+    },
+    {
+        "code": "E06000001",
+        "name": "Hartlepool",
+        "region": "North East",
+        "value": 15071
+    },
+    {
+        "code": "E06000002",
+        "name": "Middlesbrough",
+        "region": "North East",
+        "value": 14968
+    },
+    {
+        "code": "E06000057",
+        "name": "Northumberland",
+        "region": "North East",
+        "value": 18016
+    },
+    {
+        "code": "E06000003",
+        "name": "Redcar and Cleveland",
+        "region": "North East",
+        "value": 14529
+    },
+    {
+        "code": "E06000004",
+        "name": "Stockton-on-Tees",
+        "region": "North East",
+        "value": 15395
+    },
+    {
+        "code": "E08000037",
+        "name": "Gateshead",
+        "region": "North East",
+        "value": 15112
+    },
+    {
+        "code": "E08000021",
+        "name": "Newcastle upon Tyne",
+        "region": "North East",
+        "value": 16180
+    },
+    {
+        "code": "E08000022",
+        "name": "North Tyneside",
+        "region": "North East",
+        "value": 15370
+    },
+    {
+        "code": "E08000023",
+        "name": "South Tyneside",
+        "region": "North East",
+        "value": 14892
+    },
+    {
+        "code": "E08000024",
+        "name": "Sunderland",
+        "region": "North East",
+        "value": 14998
+    },
+    {
+        "code": "E06000008",
+        "name": "Blackburn with Darwen",
+        "region": "North West",
+        "value": 12450
+    },
+    {
+        "code": "E06000009",
+        "name": "Blackpool",
+        "region": "North West",
+        "value": 14795
+    },
+    {
+        "code": "E06000049",
+        "name": "Cheshire East",
+        "region": "North West",
+        "value": 22025
+    },
+    {
+        "code": "E06000050",
+        "name": "Cheshire West and Chester",
+        "region": "North West",
+        "value": 19372
+    },
+    {
+        "code": "E06000006",
+        "name": "Halton",
+        "region": "North West",
+        "value": 15396
+    },
+    {
+        "code": "E06000007",
+        "name": "Warrington",
+        "region": "North West",
+        "value": 19377
+    },
+    {
+        "code": "E07000026",
+        "name": "Allerdale",
+        "region": "North West",
+        "value": 17527
+    },
+    {
+        "code": "E07000027",
+        "name": "Barrow-in-Furness",
+        "region": "North West",
+        "value": 17676
+    },
+    {
+        "code": "E07000028",
+        "name": "Carlisle",
+        "region": "North West",
+        "value": 19534
+    },
+    {
+        "code": "E07000029",
+        "name": "Copeland",
+        "region": "North West",
+        "value": 17555
+    },
+    {
+        "code": "E07000030",
+        "name": "Eden",
+        "region": "North West",
+        "value": 19844
+    },
+    {
+        "code": "E07000031",
+        "name": "South Lakeland",
+        "region": "North West",
+        "value": 20382
+    },
+    {
+        "code": "E08000001",
+        "name": "Bolton",
+        "region": "North West",
+        "value": 15260
+    },
+    {
+        "code": "E08000002",
+        "name": "Bury",
+        "region": "North West",
+        "value": 15637
+    },
+    {
+        "code": "E08000003",
+        "name": "Manchester",
+        "region": "North West",
+        "value": 13184
+    },
+    {
+        "code": "E08000004",
+        "name": "Oldham",
+        "region": "North West",
+        "value": 15023
+    },
+    {
+        "code": "E08000005",
+        "name": "Rochdale",
+        "region": "North West",
+        "value": 15255
+    },
+    {
+        "code": "E08000006",
+        "name": "Salford",
+        "region": "North West",
+        "value": 18564
+    },
+    {
+        "code": "E08000007",
+        "name": "Stockport",
+        "region": "North West",
+        "value": 17833
+    },
+    {
+        "code": "E08000008",
+        "name": "Tameside",
+        "region": "North West",
+        "value": 17208
+    },
+    {
+        "code": "E08000009",
+        "name": "Trafford",
+        "region": "North West",
+        "value": 19021
+    },
+    {
+        "code": "E08000010",
+        "name": "Wigan",
+        "region": "North West",
+        "value": 15431
+    },
+    {
+        "code": "E07000117",
+        "name": "Burnley",
+        "region": "North West",
+        "value": 14604
+    },
+    {
+        "code": "E07000118",
+        "name": "Chorley",
+        "region": "North West",
+        "value": 18696
+    },
+    {
+        "code": "E07000119",
+        "name": "Fylde",
+        "region": "North West",
+        "value": 17640
+    },
+    {
+        "code": "E07000120",
+        "name": "Hyndburn",
+        "region": "North West",
+        "value": 14818
+    },
+    {
+        "code": "E07000121",
+        "name": "Lancaster",
+        "region": "North West",
+        "value": 16850
+    },
+    {
+        "code": "E07000122",
+        "name": "Pendle",
+        "region": "North West",
+        "value": 14628
+    },
+    {
+        "code": "E07000123",
+        "name": "Preston",
+        "region": "North West",
+        "value": 18057
+    },
+    {
+        "code": "E07000124",
+        "name": "Ribble Valley",
+        "region": "North West",
+        "value": 18086
+    },
+    {
+        "code": "E07000125",
+        "name": "Rossendale",
+        "region": "North West",
+        "value": 15285
+    },
+    {
+        "code": "E07000126",
+        "name": "South Ribble",
+        "region": "North West",
+        "value": 17585
+    },
+    {
+        "code": "E07000127",
+        "name": "West Lancashire",
+        "region": "North West",
+        "value": 18623
+    },
+    {
+        "code": "E07000128",
+        "name": "Wyre",
+        "region": "North West",
+        "value": 15717
+    },
+    {
+        "code": "E08000011",
+        "name": "Knowsley",
+        "region": "North West",
+        "value": 15317
+    },
+    {
+        "code": "E08000012",
+        "name": "Liverpool",
+        "region": "North West",
+        "value": 14538
+    },
+    {
+        "code": "E08000014",
+        "name": "Sefton",
+        "region": "North West",
+        "value": 17672
+    },
+    {
+        "code": "E08000013",
+        "name": "St. Helens",
+        "region": "North West",
+        "value": 15305
+    },
+    {
+        "code": "E08000015",
+        "name": "Wirral",
+        "region": "North West",
+        "value": 17362
+    },
+    {
+        "code": "E06000011",
+        "name": "East Riding of Yorkshire",
+        "region": "Yorkshire and the Humber",
+        "value": 18427
+    },
+    {
+        "code": "E06000010",
+        "name": "Kingston upon Hull",
+        "region": "Yorkshire and the Humber",
+        "value": 13380
+    },
+    {
+        "code": "E06000012",
+        "name": "North East Lincolnshire",
+        "region": "Yorkshire and the Humber",
+        "value": 15039
+    },
+    {
+        "code": "E06000013",
+        "name": "North Lincolnshire",
+        "region": "Yorkshire and the Humber",
+        "value": 14953
+    },
+    {
+        "code": "E06000014",
+        "name": "York",
+        "region": "Yorkshire and the Humber",
+        "value": 18070
+    },
+    {
+        "code": "E07000163",
+        "name": "Craven",
+        "region": "Yorkshire and the Humber",
+        "value": 20259
+    },
+    {
+        "code": "E07000164",
+        "name": "Hambleton",
+        "region": "Yorkshire and the Humber",
+        "value": 20397
+    },
+    {
+        "code": "E07000165",
+        "name": "Harrogate",
+        "region": "Yorkshire and the Humber",
+        "value": 21292
+    },
+    {
+        "code": "E07000166",
+        "name": "Richmondshire",
+        "region": "Yorkshire and the Humber",
+        "value": 21131
+    },
+    {
+        "code": "E07000167",
+        "name": "Ryedale",
+        "region": "Yorkshire and the Humber",
+        "value": 20366
+    },
+    {
+        "code": "E07000168",
+        "name": "Scarborough",
+        "region": "Yorkshire and the Humber",
+        "value": 19703
+    },
+    {
+        "code": "E07000169",
+        "name": "Selby",
+        "region": "Yorkshire and the Humber",
+        "value": 20773
+    },
+    {
+        "code": "E08000016",
+        "name": "Barnsley",
+        "region": "Yorkshire and the Humber",
+        "value": 15552
+    },
+    {
+        "code": "E08000017",
+        "name": "Doncaster",
+        "region": "Yorkshire and the Humber",
+        "value": 15595
+    },
+    {
+        "code": "E08000018",
+        "name": "Rotherham",
+        "region": "Yorkshire and the Humber",
+        "value": 15465
+    },
+    {
+        "code": "E08000019",
+        "name": "Sheffield",
+        "region": "Yorkshire and the Humber",
+        "value": 15057
+    },
+    {
+        "code": "E08000032",
+        "name": "Bradford",
+        "region": "Yorkshire and the Humber",
+        "value": 14444
+    },
+    {
+        "code": "E08000033",
+        "name": "Calderdale",
+        "region": "Yorkshire and the Humber",
+        "value": 16060
+    },
+    {
+        "code": "E08000034",
+        "name": "Kirklees",
+        "region": "Yorkshire and the Humber",
+        "value": 16107
+    },
+    {
+        "code": "E08000035",
+        "name": "Leeds",
+        "region": "Yorkshire and the Humber",
+        "value": 16814
+    },
+    {
+        "code": "E08000036",
+        "name": "Wakefield",
+        "region": "Yorkshire and the Humber",
+        "value": 15955
+    },
+    {
+        "code": "E06000015",
+        "name": "Derby",
+        "region": "East Midlands",
+        "value": 15078
+    },
+    {
+        "code": "E06000016",
+        "name": "Leicester",
+        "region": "East Midlands",
+        "value": 12848
+    },
+    {
+        "code": "E06000018",
+        "name": "Nottingham",
+        "region": "East Midlands",
+        "value": 12232
+    },
+    {
+        "code": "E06000017",
+        "name": "Rutland",
+        "region": "East Midlands",
+        "value": 18254
+    },
+    {
+        "code": "E07000032",
+        "name": "Amber Valley",
+        "region": "East Midlands",
+        "value": 18747
+    },
+    {
+        "code": "E07000033",
+        "name": "Bolsover",
+        "region": "East Midlands",
+        "value": 15487
+    },
+    {
+        "code": "E07000034",
+        "name": "Chesterfield",
+        "region": "East Midlands",
+        "value": 15624
+    },
+    {
+        "code": "E07000035",
+        "name": "Derbyshire Dales",
+        "region": "East Midlands",
+        "value": 18987
+    },
+    {
+        "code": "E07000036",
+        "name": "Erewash",
+        "region": "East Midlands",
+        "value": 18760
+    },
+    {
+        "code": "E07000037",
+        "name": "High Peak",
+        "region": "East Midlands",
+        "value": 19188
+    },
+    {
+        "code": "E07000038",
+        "name": "North East Derbyshire",
+        "region": "East Midlands",
+        "value": 15352
+    },
+    {
+        "code": "E07000039",
+        "name": "South Derbyshire",
+        "region": "East Midlands",
+        "value": 19352
+    },
+    {
+        "code": "E07000129",
+        "name": "Blaby",
+        "region": "East Midlands",
+        "value": 18334
+    },
+    {
+        "code": "E07000130",
+        "name": "Charnwood",
+        "region": "East Midlands",
+        "value": 18970
+    },
+    {
+        "code": "E07000131",
+        "name": "Harborough",
+        "region": "East Midlands",
+        "value": 18622
+    },
+    {
+        "code": "E07000132",
+        "name": "Hinckley and Bosworth",
+        "region": "East Midlands",
+        "value": 18063
+    },
+    {
+        "code": "E07000133",
+        "name": "Melton",
+        "region": "East Midlands",
+        "value": 18089
+    },
+    {
+        "code": "E07000134",
+        "name": "North West Leicestershire",
+        "region": "East Midlands",
+        "value": 18256
+    },
+    {
+        "code": "E07000135",
+        "name": "Oadby and Wigston",
+        "region": "East Midlands",
+        "value": 17996
+    },
+    {
+        "code": "E07000136",
+        "name": "Boston",
+        "region": "East Midlands",
+        "value": 16659
+    },
+    {
+        "code": "E07000137",
+        "name": "East Lindsey",
+        "region": "East Midlands",
+        "value": 15878
+    },
+    {
+        "code": "E07000138",
+        "name": "Lincoln",
+        "region": "East Midlands",
+        "value": 18247
+    },
+    {
+        "code": "E07000139",
+        "name": "North Kesteven",
+        "region": "East Midlands",
+        "value": 16992
+    },
+    {
+        "code": "E07000140",
+        "name": "South Holland",
+        "region": "East Midlands",
+        "value": 16634
+    },
+    {
+        "code": "E07000141",
+        "name": "South Kesteven",
+        "region": "East Midlands",
+        "value": 17145
+    },
+    {
+        "code": "E07000142",
+        "name": "West Lindsey",
+        "region": "East Midlands",
+        "value": 16597
+    },
+    {
+        "code": "E07000150",
+        "name": "Corby",
+        "region": "East Midlands",
+        "value": 18540
+    },
+    {
+        "code": "E07000151",
+        "name": "Daventry",
+        "region": "East Midlands",
+        "value": 19988
+    },
+    {
+        "code": "E07000152",
+        "name": "East Northamptonshire",
+        "region": "East Midlands",
+        "value": 18375
+    },
+    {
+        "code": "E07000153",
+        "name": "Kettering",
+        "region": "East Midlands",
+        "value": 18362
+    },
+    {
+        "code": "E07000154",
+        "name": "Northampton",
+        "region": "East Midlands",
+        "value": 20006
+    },
+    {
+        "code": "E07000155",
+        "name": "South Northamptonshire",
+        "region": "East Midlands",
+        "value": 20271
+    },
+    {
+        "code": "E07000156",
+        "name": "Wellingborough",
+        "region": "East Midlands",
+        "value": 17989
+    },
+    {
+        "code": "E07000170",
+        "name": "Ashfield",
+        "region": "East Midlands",
+        "value": 16405
+    },
+    {
+        "code": "E07000171",
+        "name": "Bassetlaw",
+        "region": "East Midlands",
+        "value": 16201
+    },
+    {
+        "code": "E07000172",
+        "name": "Broxtowe",
+        "region": "East Midlands",
+        "value": 19301
+    },
+    {
+        "code": "E07000173",
+        "name": "Gedling",
+        "region": "East Midlands",
+        "value": 19130
+    },
+    {
+        "code": "E07000174",
+        "name": "Mansfield",
+        "region": "East Midlands",
+        "value": 16394
+    },
+    {
+        "code": "E07000175",
+        "name": "Newark and Sherwood",
+        "region": "East Midlands",
+        "value": 16353
+    },
+    {
+        "code": "E07000176",
+        "name": "Rushcliffe",
+        "region": "East Midlands",
+        "value": 20021
+    },
+    {
+        "code": "E06000019",
+        "name": "Herefordshire, County of",
+        "region": "West Midlands",
+        "value": 19089
+    },
+    {
+        "code": "E06000051",
+        "name": "Shropshire",
+        "region": "West Midlands",
+        "value": 18856
+    },
+    {
+        "code": "E06000021",
+        "name": "Stoke-on-Trent",
+        "region": "West Midlands",
+        "value": 14075
+    },
+    {
+        "code": "E06000020",
+        "name": "Telford and Wrekin",
+        "region": "West Midlands",
+        "value": 16291
+    },
+    {
+        "code": "E07000192",
+        "name": "Cannock Chase",
+        "region": "West Midlands",
+        "value": 18283
+    },
+    {
+        "code": "E07000193",
+        "name": "East Staffordshire",
+        "region": "West Midlands",
+        "value": 18253
+    },
+    {
+        "code": "E07000194",
+        "name": "Lichfield",
+        "region": "West Midlands",
+        "value": 18181
+    },
+    {
+        "code": "E07000195",
+        "name": "Newcastle-under-Lyme",
+        "region": "West Midlands",
+        "value": 18189
+    },
+    {
+        "code": "E07000196",
+        "name": "South Staffordshire",
+        "region": "West Midlands",
+        "value": 18166
+    },
+    {
+        "code": "E07000197",
+        "name": "Stafford",
+        "region": "West Midlands",
+        "value": 18399
+    },
+    {
+        "code": "E07000198",
+        "name": "Staffordshire Moorlands",
+        "region": "West Midlands",
+        "value": 17670
+    },
+    {
+        "code": "E07000199",
+        "name": "Tamworth",
+        "region": "West Midlands",
+        "value": 18260
+    },
+    {
+        "code": "E07000218",
+        "name": "North Warwickshire",
+        "region": "West Midlands",
+        "value": 20624
+    },
+    {
+        "code": "E07000219",
+        "name": "Nuneaton and Bedworth",
+        "region": "West Midlands",
+        "value": 20471
+    },
+    {
+        "code": "E07000220",
+        "name": "Rugby",
+        "region": "West Midlands",
+        "value": 20935
+    },
+    {
+        "code": "E07000221",
+        "name": "Stratford-on-Avon",
+        "region": "West Midlands",
+        "value": 21265
+    },
+    {
+        "code": "E07000222",
+        "name": "Warwick",
+        "region": "West Midlands",
+        "value": 22630
+    },
+    {
+        "code": "E08000025",
+        "name": "Birmingham",
+        "region": "West Midlands",
+        "value": 14093
+    },
+    {
+        "code": "E08000026",
+        "name": "Coventry",
+        "region": "West Midlands",
+        "value": 14175
+    },
+    {
+        "code": "E08000027",
+        "name": "Dudley",
+        "region": "West Midlands",
+        "value": 15878
+    },
+    {
+        "code": "E08000028",
+        "name": "Sandwell",
+        "region": "West Midlands",
+        "value": 13164
+    },
+    {
+        "code": "E08000029",
+        "name": "Solihull",
+        "region": "West Midlands",
+        "value": 21927
+    },
+    {
+        "code": "E08000030",
+        "name": "Walsall",
+        "region": "West Midlands",
+        "value": 13791
+    },
+    {
+        "code": "E08000031",
+        "name": "Wolverhampton",
+        "region": "West Midlands",
+        "value": 13926
+    },
+    {
+        "code": "E07000234",
+        "name": "Bromsgrove",
+        "region": "West Midlands",
+        "value": 20176
+    },
+    {
+        "code": "E07000235",
+        "name": "Malvern Hills",
+        "region": "West Midlands",
+        "value": 19309
+    },
+    {
+        "code": "E07000236",
+        "name": "Redditch",
+        "region": "West Midlands",
+        "value": 19720
+    },
+    {
+        "code": "E07000237",
+        "name": "Worcester",
+        "region": "West Midlands",
+        "value": 20618
+    },
+    {
+        "code": "E07000238",
+        "name": "Wychavon",
+        "region": "West Midlands",
+        "value": 19773
+    },
+    {
+        "code": "E07000239",
+        "name": "Wyre Forest",
+        "region": "West Midlands",
+        "value": 18897
+    },
+    {
+        "code": "E06000055",
+        "name": "Bedford",
+        "region": "East of England",
+        "value": 20136
+    },
+    {
+        "code": "E06000056",
+        "name": "Central Bedfordshire",
+        "region": "East of England",
+        "value": 20719
+    },
+    {
+        "code": "E06000032",
+        "name": "Luton",
+        "region": "East of England",
+        "value": 14889
+    },
+    {
+        "code": "E06000031",
+        "name": "Peterborough",
+        "region": "East of England",
+        "value": 16563
+    },
+    {
+        "code": "E06000033",
+        "name": "Southend-on-Sea",
+        "region": "East of England",
+        "value": 19088
+    },
+    {
+        "code": "E06000034",
+        "name": "Thurrock",
+        "region": "East of England",
+        "value": 17507
+    },
+    {
+        "code": "E07000008",
+        "name": "Cambridge",
+        "region": "East of England",
+        "value": 24472
+    },
+    {
+        "code": "E07000009",
+        "name": "East Cambridgeshire",
+        "region": "East of England",
+        "value": 20406
+    },
+    {
+        "code": "E07000010",
+        "name": "Fenland",
+        "region": "East of England",
+        "value": 19399
+    },
+    {
+        "code": "E07000011",
+        "name": "Huntingdonshire",
+        "region": "East of England",
+        "value": 20630
+    },
+    {
+        "code": "E07000012",
+        "name": "South Cambridgeshire",
+        "region": "East of England",
+        "value": 21331
+    },
+    {
+        "code": "E07000066",
+        "name": "Basildon",
+        "region": "East of England",
+        "value": 19809
+    },
+    {
+        "code": "E07000067",
+        "name": "Braintree",
+        "region": "East of England",
+        "value": 18938
+    },
+    {
+        "code": "E07000068",
+        "name": "Brentwood",
+        "region": "East of England",
+        "value": 22940
+    },
+    {
+        "code": "E07000069",
+        "name": "Castle Point",
+        "region": "East of England",
+        "value": 19249
+    },
+    {
+        "code": "E07000070",
+        "name": "Chelmsford",
+        "region": "East of England",
+        "value": 22246
+    },
+    {
+        "code": "E07000071",
+        "name": "Colchester",
+        "region": "East of England",
+        "value": 19526
+    },
+    {
+        "code": "E07000072",
+        "name": "Epping Forest",
+        "region": "East of England",
+        "value": 24393
+    },
+    {
+        "code": "E07000073",
+        "name": "Harlow",
+        "region": "East of England",
+        "value": 22960
+    },
+    {
+        "code": "E07000074",
+        "name": "Maldon",
+        "region": "East of England",
+        "value": 21234
+    },
+    {
+        "code": "E07000075",
+        "name": "Rochford",
+        "region": "East of England",
+        "value": 19802
+    },
+    {
+        "code": "E07000076",
+        "name": "Tendring",
+        "region": "East of England",
+        "value": 16988
+    },
+    {
+        "code": "E07000077",
+        "name": "Uttlesford",
+        "region": "East of England",
+        "value": 23660
+    },
+    {
+        "code": "E07000095",
+        "name": "Broxbourne",
+        "region": "East of England",
+        "value": 23826
+    },
+    {
+        "code": "E07000096",
+        "name": "Dacorum",
+        "region": "East of England",
+        "value": 24056
+    },
+    {
+        "code": "E07000242",
+        "name": "East Hertfordshire",
+        "region": "East of England",
+        "value": 24377
+    },
+    {
+        "code": "E07000098",
+        "name": "Hertsmere",
+        "region": "East of England",
+        "value": 24318
+    },
+    {
+        "code": "E07000099",
+        "name": "North Hertfordshire",
+        "region": "East of England",
+        "value": 23554
+    },
+    {
+        "code": "E07000240",
+        "name": "St Albans",
+        "region": "East of England",
+        "value": 25098
+    },
+    {
+        "code": "E07000243",
+        "name": "Stevenage",
+        "region": "East of England",
+        "value": 23555
+    },
+    {
+        "code": "E07000102",
+        "name": "Three Rivers",
+        "region": "East of England",
+        "value": 24613
+    },
+    {
+        "code": "E07000103",
+        "name": "Watford",
+        "region": "East of England",
+        "value": 24854
+    },
+    {
+        "code": "E07000241",
+        "name": "Welwyn Hatfield",
+        "region": "East of England",
+        "value": 24690
+    },
+    {
+        "code": "E07000143",
+        "name": "Breckland",
+        "region": "East of England",
+        "value": 17225
+    },
+    {
+        "code": "E07000144",
+        "name": "Broadland",
+        "region": "East of England",
+        "value": 17096
+    },
+    {
+        "code": "E07000145",
+        "name": "Great Yarmouth",
+        "region": "East of England",
+        "value": 16411
+    },
+    {
+        "code": "E07000146",
+        "name": "King's Lynn and West Norfolk",
+        "region": "East of England",
+        "value": 17859
+    },
+    {
+        "code": "E07000147",
+        "name": "North Norfolk",
+        "region": "East of England",
+        "value": 17587
+    },
+    {
+        "code": "E07000148",
+        "name": "Norwich",
+        "region": "East of England",
+        "value": 18459
+    },
+    {
+        "code": "E07000149",
+        "name": "South Norfolk",
+        "region": "East of England",
+        "value": 17619
+    },
+    {
+        "code": "E07000200",
+        "name": "Babergh",
+        "region": "East of England",
+        "value": 18654
+    },
+    {
+        "code": "E07000201",
+        "name": "Forest Heath",
+        "region": "East of England",
+        "value": 19101
+    },
+    {
+        "code": "E07000202",
+        "name": "Ipswich",
+        "region": "East of England",
+        "value": 19347
+    },
+    {
+        "code": "E07000203",
+        "name": "Mid Suffolk",
+        "region": "East of England",
+        "value": 18850
+    },
+    {
+        "code": "E07000204",
+        "name": "St Edmundsbury",
+        "region": "East of England",
+        "value": 19098
+    },
+    {
+        "code": "E07000205",
+        "name": "Suffolk Coastal",
+        "region": "East of England",
+        "value": 18722
+    },
+    {
+        "code": "E07000206",
+        "name": "Waveney",
+        "region": "East of England",
+        "value": 17690
+    },
+    {
+        "code": "E09000007",
+        "name": "Camden",
+        "region": "London",
+        "value": 44892
+    },
+    {
+        "code": "E09000001",
+        "name": "City of London",
+        "region": "London",
+        "value": 56664
+    },
+    {
+        "code": "E09000012",
+        "name": "Hackney",
+        "region": "London",
+        "value": 20175
+    },
+    {
+        "code": "E09000013",
+        "name": "Hammersmith and Fulham",
+        "region": "London",
+        "value": 55552
+    },
+    {
+        "code": "E09000014",
+        "name": "Haringey",
+        "region": "London",
+        "value": 27179
+    },
+    {
+        "code": "E09000019",
+        "name": "Islington",
+        "region": "London",
+        "value": 29371
+    },
+    {
+        "code": "E09000020",
+        "name": "Kensington and Chelsea",
+        "region": "London",
+        "value": 62600
+    },
+    {
+        "code": "E09000022",
+        "name": "Lambeth",
+        "region": "London",
+        "value": 24965
+    },
+    {
+        "code": "E09000023",
+        "name": "Lewisham",
+        "region": "London",
+        "value": 22139
+    },
+    {
+        "code": "E09000025",
+        "name": "Newham",
+        "region": "London",
+        "value": 18537
+    },
+    {
+        "code": "E09000028",
+        "name": "Southwark",
+        "region": "London",
+        "value": 23284
+    },
+    {
+        "code": "E09000030",
+        "name": "Tower Hamlets",
+        "region": "London",
+        "value": 23227
+    },
+    {
+        "code": "E09000032",
+        "name": "Wandsworth",
+        "region": "London",
+        "value": 37288
+    },
+    {
+        "code": "E09000033",
+        "name": "Westminster",
+        "region": "London",
+        "value": 50910
+    },
+    {
+        "code": "E09000002",
+        "name": "Barking and Dagenham",
+        "region": "London",
+        "value": 19234
+    },
+    {
+        "code": "E09000003",
+        "name": "Barnet",
+        "region": "London",
+        "value": 27455
+    },
+    {
+        "code": "E09000004",
+        "name": "Bexley",
+        "region": "London",
+        "value": 20766
+    },
+    {
+        "code": "E09000005",
+        "name": "Brent",
+        "region": "London",
+        "value": 23580
+    },
+    {
+        "code": "E09000006",
+        "name": "Bromley",
+        "region": "London",
+        "value": 27169
+    },
+    {
+        "code": "E09000008",
+        "name": "Croydon",
+        "region": "London",
+        "value": 21766
+    },
+    {
+        "code": "E09000009",
+        "name": "Ealing",
+        "region": "London",
+        "value": 26655
+    },
+    {
+        "code": "E09000010",
+        "name": "Enfield",
+        "region": "London",
+        "value": 21444
+    },
+    {
+        "code": "E09000011",
+        "name": "Greenwich",
+        "region": "London",
+        "value": 21802
+    },
+    {
+        "code": "E09000015",
+        "name": "Harrow",
+        "region": "London",
+        "value": 23928
+    },
+    {
+        "code": "E09000016",
+        "name": "Havering",
+        "region": "London",
+        "value": 20095
+    },
+    {
+        "code": "E09000017",
+        "name": "Hillingdon",
+        "region": "London",
+        "value": 23439
+    },
+    {
+        "code": "E09000018",
+        "name": "Hounslow",
+        "region": "London",
+        "value": 30230
+    },
+    {
+        "code": "E09000021",
+        "name": "Kingston upon Thames",
+        "region": "London",
+        "value": 26947
+    },
+    {
+        "code": "E09000024",
+        "name": "Merton",
+        "region": "London",
+        "value": 27213
+    },
+    {
+        "code": "E09000026",
+        "name": "Redbridge",
+        "region": "London",
+        "value": 20933
+    },
+    {
+        "code": "E09000027",
+        "name": "Richmond upon Thames",
+        "region": "London",
+        "value": 33258
+    },
+    {
+        "code": "E09000029",
+        "name": "Sutton",
+        "region": "London",
+        "value": 24968
+    },
+    {
+        "code": "E09000031",
+        "name": "Waltham Forest",
+        "region": "London",
+        "value": 21595
+    },
+    {
+        "code": "E06000036",
+        "name": "Bracknell Forest",
+        "region": "South East",
+        "value": 23733
+    },
+    {
+        "code": "E06000043",
+        "name": "Brighton and Hove",
+        "region": "South East",
+        "value": 20508
+    },
+    {
+        "code": "E06000046",
+        "name": "Isle of Wight",
+        "region": "South East",
+        "value": 16781
+    },
+    {
+        "code": "E06000035",
+        "name": "Medway",
+        "region": "South East",
+        "value": 17884
+    },
+    {
+        "code": "E06000042",
+        "name": "Milton Keynes",
+        "region": "South East",
+        "value": 20039
+    },
+    {
+        "code": "E06000044",
+        "name": "Portsmouth",
+        "region": "South East",
+        "value": 15066
+    },
+    {
+        "code": "E06000038",
+        "name": "Reading",
+        "region": "South East",
+        "value": 24114
+    },
+    {
+        "code": "E06000039",
+        "name": "Slough",
+        "region": "South East",
+        "value": 22953
+    },
+    {
+        "code": "E06000045",
+        "name": "Southampton",
+        "region": "South East",
+        "value": 14797
+    },
+    {
+        "code": "E06000037",
+        "name": "West Berkshire",
+        "region": "South East",
+        "value": 22997
+    },
+    {
+        "code": "E06000040",
+        "name": "Windsor and Maidenhead",
+        "region": "South East",
+        "value": 24446
+    },
+    {
+        "code": "E06000041",
+        "name": "Wokingham",
+        "region": "South East",
+        "value": 23795
+    },
+    {
+        "code": "E07000004",
+        "name": "Aylesbury Vale",
+        "region": "South East",
+        "value": 26093
+    },
+    {
+        "code": "E07000005",
+        "name": "Chiltern",
+        "region": "South East",
+        "value": 27106
+    },
+    {
+        "code": "E07000006",
+        "name": "South Bucks",
+        "region": "South East",
+        "value": 27802
+    },
+    {
+        "code": "E07000007",
+        "name": "Wycombe",
+        "region": "South East",
+        "value": 26313
+    },
+    {
+        "code": "E07000061",
+        "name": "Eastbourne",
+        "region": "South East",
+        "value": 20524
+    },
+    {
+        "code": "E07000062",
+        "name": "Hastings",
+        "region": "South East",
+        "value": 20995
+    },
+    {
+        "code": "E07000063",
+        "name": "Lewes",
+        "region": "South East",
+        "value": 21104
+    },
+    {
+        "code": "E07000064",
+        "name": "Rother",
+        "region": "South East",
+        "value": 19988
+    },
+    {
+        "code": "E07000065",
+        "name": "Wealden",
+        "region": "South East",
+        "value": 20948
+    },
+    {
+        "code": "E07000084",
+        "name": "Basingstoke and Deane",
+        "region": "South East",
+        "value": 22783
+    },
+    {
+        "code": "E07000085",
+        "name": "East Hampshire",
+        "region": "South East",
+        "value": 24662
+    },
+    {
+        "code": "E07000086",
+        "name": "Eastleigh",
+        "region": "South East",
+        "value": 20647
+    },
+    {
+        "code": "E07000087",
+        "name": "Fareham",
+        "region": "South East",
+        "value": 20307
+    },
+    {
+        "code": "E07000088",
+        "name": "Gosport",
+        "region": "South East",
+        "value": 19687
+    },
+    {
+        "code": "E07000089",
+        "name": "Hart",
+        "region": "South East",
+        "value": 23528
+    },
+    {
+        "code": "E07000090",
+        "name": "Havant",
+        "region": "South East",
+        "value": 19645
+    },
+    {
+        "code": "E07000091",
+        "name": "New Forest",
+        "region": "South East",
+        "value": 23355
+    },
+    {
+        "code": "E07000092",
+        "name": "Rushmoor",
+        "region": "South East",
+        "value": 23466
+    },
+    {
+        "code": "E07000093",
+        "name": "Test Valley",
+        "region": "South East",
+        "value": 24155
+    },
+    {
+        "code": "E07000094",
+        "name": "Winchester",
+        "region": "South East",
+        "value": 25232
+    },
+    {
+        "code": "E07000105",
+        "name": "Ashford",
+        "region": "South East",
+        "value": 19843
+    },
+    {
+        "code": "E07000106",
+        "name": "Canterbury",
+        "region": "South East",
+        "value": 18679
+    },
+    {
+        "code": "E07000107",
+        "name": "Dartford",
+        "region": "South East",
+        "value": 19449
+    },
+    {
+        "code": "E07000108",
+        "name": "Dover",
+        "region": "South East",
+        "value": 17378
+    },
+    {
+        "code": "E07000109",
+        "name": "Gravesham",
+        "region": "South East",
+        "value": 18453
+    },
+    {
+        "code": "E07000110",
+        "name": "Maidstone",
+        "region": "South East",
+        "value": 20398
+    },
+    {
+        "code": "E07000111",
+        "name": "Sevenoaks",
+        "region": "South East",
+        "value": 25029
+    },
+    {
+        "code": "E07000112",
+        "name": "Shepway",
+        "region": "South East",
+        "value": 17390
+    },
+    {
+        "code": "E07000113",
+        "name": "Swale",
+        "region": "South East",
+        "value": 17942
+    },
+    {
+        "code": "E07000114",
+        "name": "Thanet",
+        "region": "South East",
+        "value": 17009
+    },
+    {
+        "code": "E07000115",
+        "name": "Tonbridge and Malling",
+        "region": "South East",
+        "value": 25094
+    },
+    {
+        "code": "E07000116",
+        "name": "Tunbridge Wells",
+        "region": "South East",
+        "value": 25407
+    },
+    {
+        "code": "E07000177",
+        "name": "Cherwell",
+        "region": "South East",
+        "value": 23184
+    },
+    {
+        "code": "E07000178",
+        "name": "Oxford",
+        "region": "South East",
+        "value": 25585
+    },
+    {
+        "code": "E07000179",
+        "name": "South Oxfordshire",
+        "region": "South East",
+        "value": 23358
+    },
+    {
+        "code": "E07000180",
+        "name": "Vale of White Horse",
+        "region": "South East",
+        "value": 23042
+    },
+    {
+        "code": "E07000181",
+        "name": "West Oxfordshire",
+        "region": "South East",
+        "value": 22763
+    },
+    {
+        "code": "E07000207",
+        "name": "Elmbridge",
+        "region": "South East",
+        "value": 29325
+    },
+    {
+        "code": "E07000208",
+        "name": "Epsom and Ewell",
+        "region": "South East",
+        "value": 27973
+    },
+    {
+        "code": "E07000209",
+        "name": "Guildford",
+        "region": "South East",
+        "value": 29223
+    },
+    {
+        "code": "E07000210",
+        "name": "Mole Valley",
+        "region": "South East",
+        "value": 27469
+    },
+    {
+        "code": "E07000211",
+        "name": "Reigate and Banstead",
+        "region": "South East",
+        "value": 27010
+    },
+    {
+        "code": "E07000212",
+        "name": "Runnymede",
+        "region": "South East",
+        "value": 28987
+    },
+    {
+        "code": "E07000213",
+        "name": "Spelthorne",
+        "region": "South East",
+        "value": 27988
+    },
+    {
+        "code": "E07000214",
+        "name": "Surrey Heath",
+        "region": "South East",
+        "value": 27736
+    },
+    {
+        "code": "E07000215",
+        "name": "Tandridge",
+        "region": "South East",
+        "value": 26830
+    },
+    {
+        "code": "E07000216",
+        "name": "Waverley",
+        "region": "South East",
+        "value": 27506
+    },
+    {
+        "code": "E07000217",
+        "name": "Woking",
+        "region": "South East",
+        "value": 28064
+    },
+    {
+        "code": "E07000223",
+        "name": "Adur",
+        "region": "South East",
+        "value": 21528
+    },
+    {
+        "code": "E07000224",
+        "name": "Arun",
+        "region": "South East",
+        "value": 20731
+    },
+    {
+        "code": "E07000225",
+        "name": "Chichester",
+        "region": "South East",
+        "value": 21814
+    },
+    {
+        "code": "E07000226",
+        "name": "Crawley",
+        "region": "South East",
+        "value": 22830
+    },
+    {
+        "code": "E07000227",
+        "name": "Horsham",
+        "region": "South East",
+        "value": 22886
+    },
+    {
+        "code": "E07000228",
+        "name": "Mid Sussex",
+        "region": "South East",
+        "value": 22839
+    },
+    {
+        "code": "E07000229",
+        "name": "Worthing",
+        "region": "South East",
+        "value": 21764
+    },
+    {
+        "code": "E06000022",
+        "name": "Bath and North East Somerset",
+        "region": "South West",
+        "value": 21955
+    },
+    {
+        "code": "E06000028",
+        "name": "Bournemouth",
+        "region": "South West",
+        "value": 19448
+    },
+    {
+        "code": "E06000023",
+        "name": "Bristol",
+        "region": "South West",
+        "value": 17633
+    },
+    {
+        "code": "E06000052",
+        "name": "Cornwall",
+        "region": "South West",
+        "value": 17018
+    },
+    {
+        "code": "E06000053",
+        "name": "Isles of Scilly",
+        "region": "South West",
+        "value": 18902
+    },
+    {
+        "code": "E06000024",
+        "name": "North Somerset",
+        "region": "South West",
+        "value": 19982
+    },
+    {
+        "code": "E06000026",
+        "name": "Plymouth",
+        "region": "South West",
+        "value": 15147
+    },
+    {
+        "code": "E06000029",
+        "name": "Poole",
+        "region": "South West",
+        "value": 18534
+    },
+    {
+        "code": "E06000025",
+        "name": "South Gloucestershire",
+        "region": "South West",
+        "value": 21136
+    },
+    {
+        "code": "E06000030",
+        "name": "Swindon",
+        "region": "South West",
+        "value": 18536
+    },
+    {
+        "code": "E06000027",
+        "name": "Torbay",
+        "region": "South West",
+        "value": 17069
+    },
+    {
+        "code": "E06000054",
+        "name": "Wiltshire",
+        "region": "South West",
+        "value": 20292
+    },
+    {
+        "code": "E07000040",
+        "name": "East Devon",
+        "region": "South West",
+        "value": 18358
+    },
+    {
+        "code": "E07000041",
+        "name": "Exeter",
+        "region": "South West",
+        "value": 20820
+    },
+    {
+        "code": "E07000042",
+        "name": "Mid Devon",
+        "region": "South West",
+        "value": 18674
+    },
+    {
+        "code": "E07000043",
+        "name": "North Devon",
+        "region": "South West",
+        "value": 18916
+    },
+    {
+        "code": "E07000044",
+        "name": "South Hams",
+        "region": "South West",
+        "value": 19561
+    },
+    {
+        "code": "E07000045",
+        "name": "Teignbridge",
+        "region": "South West",
+        "value": 18826
+    },
+    {
+        "code": "E07000046",
+        "name": "Torridge",
+        "region": "South West",
+        "value": 18452
+    },
+    {
+        "code": "E07000047",
+        "name": "West Devon",
+        "region": "South West",
+        "value": 18492
+    },
+    {
+        "code": "E07000048",
+        "name": "Christchurch",
+        "region": "South West",
+        "value": 20560
+    },
+    {
+        "code": "E07000049",
+        "name": "East Dorset",
+        "region": "South West",
+        "value": 20555
+    },
+    {
+        "code": "E07000050",
+        "name": "North Dorset",
+        "region": "South West",
+        "value": 20469
+    },
+    {
+        "code": "E07000051",
+        "name": "Purbeck",
+        "region": "South West",
+        "value": 20956
+    },
+    {
+        "code": "E07000052",
+        "name": "West Dorset",
+        "region": "South West",
+        "value": 20308
+    },
+    {
+        "code": "E07000053",
+        "name": "Weymouth and Portland",
+        "region": "South West",
+        "value": 20443
+    },
+    {
+        "code": "E07000078",
+        "name": "Cheltenham",
+        "region": "South West",
+        "value": 21371
+    },
+    {
+        "code": "E07000079",
+        "name": "Cotswold",
+        "region": "South West",
+        "value": 21198
+    },
+    {
+        "code": "E07000080",
+        "name": "Forest of Dean",
+        "region": "South West",
+        "value": 19578
+    },
+    {
+        "code": "E07000081",
+        "name": "Gloucester",
+        "region": "South West",
+        "value": 20487
+    },
+    {
+        "code": "E07000082",
+        "name": "Stroud",
+        "region": "South West",
+        "value": 20196
+    },
+    {
+        "code": "E07000083",
+        "name": "Tewkesbury",
+        "region": "South West",
+        "value": 20205
+    },
+    {
+        "code": "E07000187",
+        "name": "Mendip",
+        "region": "South West",
+        "value": 19285
+    },
+    {
+        "code": "E07000188",
+        "name": "Sedgemoor",
+        "region": "South West",
+        "value": 18673
+    },
+    {
+        "code": "E07000189",
+        "name": "South Somerset",
+        "region": "South West",
+        "value": 18506
+    },
+    {
+        "code": "E07000190",
+        "name": "Taunton Deane",
+        "region": "South West",
+        "value": 18909
+    },
+    {
+        "code": "E07000191",
+        "name": "West Somerset",
+        "region": "South West",
+        "value": 17632
+    }
+]
